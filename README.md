@@ -45,7 +45,6 @@ https://www.python.org/downloads/
 ✔ Make sure to select **“Add Python to PATH”** during installation.
 
 Verify:
-```bash
 python --version
 Step 2: Install Required Libraries
 pip install -r requirements.txt
