@@ -15,27 +15,6 @@ Using MediaPipe Pose Estimation and OpenCV, the system determines whether the ex
 
 ---
 
-## 📂 Project Structure
-exercise-form-correction/
-│
-├── src/
-│ ├── main.py
-│ ├── pose_detection.py
-│ ├── angle_utils.py
-│ └── posture_rules.py
-│
-├── data/
-│ └── sample_video.mp4
-│
-├── output/
-│ └── output_video.mp4
-│
-├── requirements.txt
-└── README.md
-
-
----
-
 ## ⚙️ How to Run the Project (Windows)
 
 ## Step 1: Install Python
@@ -51,6 +30,7 @@ pip install -r requirements.txt
 
 ## Step 3: Add Sample Video
 Place a short exercise video inside the data folder
+
 Rename it as:
 sample_video.mp4
 
@@ -64,18 +44,12 @@ The output demonstrates real-time posture analysis with visual feedback.
 
 Output includes:
 
-Human pose skeleton overlay
-
-Elbow joint angle displayed near the arm
-
-Text feedback indicating:
-
-Correct bicep curl
-
-Incomplete curl
-
-Over-flexed arm
-
-Processed video saved as:
+- Human pose skeleton overlay
+- Elbow joint angle displayed near the arm
+- Text feedback indicating:
+- Correct bicep curl
+- Incomplete curl
+- Over-flexed arm
+- Processed video saved as:
 
 output/output_video.mp4
