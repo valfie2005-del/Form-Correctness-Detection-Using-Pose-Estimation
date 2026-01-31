@@ -46,7 +46,9 @@ Output includes:
 
 - Human pose skeleton overlay
 - Elbow joint angle displayed near the arm
-- Text feedback indicating:
+- 
+Text feedback indicating:
+
 - Correct bicep curl
 - Incomplete curl
 - Over-flexed arm
