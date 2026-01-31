@@ -38,7 +38,7 @@ exercise-form-correction/
 
 ## ⚙️ How to Run the Project (Windows)
 
-### Step 1: Install Python
+## Step 1: Install Python
 Download Python from:
 https://www.python.org/downloads/
 
@@ -46,17 +46,18 @@ https://www.python.org/downloads/
 
 Verify:
 python --version
-Step 2: Install Required Libraries
+## Step 2: Install Required Libraries
 pip install -r requirements.txt
-Step 3: Add Sample Video
+
+## Step 3: Add Sample Video
 Place a short exercise video inside the data folder
-
 Rename it as:
-
 sample_video.mp4
-Step 4: Run the Project
+
+## Step 4: Run the Project
 cd src
 python main.py
+
 🎯 Sample Output
 The output demonstrates real-time posture analysis with visual feedback.
 
