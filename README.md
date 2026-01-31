@@ -56,9 +56,10 @@ sample_video.mp4
 
 ## Step 4: Run the Project
 cd src
+
 python main.py
 
-🎯 Sample Output
+## 🎯 Sample Output
 The output demonstrates real-time posture analysis with visual feedback.
 
 Output includes:
