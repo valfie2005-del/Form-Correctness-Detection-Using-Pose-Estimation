@@ -54,4 +54,3 @@ Text feedback indicating:
 - Over-flexed arm
 - Processed video saved as:
 
-output/output_video.mp4
